@@ -1,1 +1,1 @@
-0. Where am I?
+describing what each script is doing
