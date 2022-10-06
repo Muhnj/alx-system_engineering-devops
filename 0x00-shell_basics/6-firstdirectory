@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -Rmy_first_directory/tmp/
+cp -R/tmp/my_first_directory
